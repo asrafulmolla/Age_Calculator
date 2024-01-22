@@ -19,6 +19,6 @@
   </div>
   
 <h2 align="left">Open terminal and run</h2>
-<h1>
+<h3>
 - Any C++ compiler : like <a href="https://www.programiz.com/cpp-programming/online-compiler/">Run Calculator</a>
-</h1>
+</h3>
