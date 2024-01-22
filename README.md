@@ -6,7 +6,7 @@ It also takes care of handling cases where the birth month or day might be in th
 #Sample User's Input:
   <div align="left">
     <a href="https://t.me/mursalatul" title="Telegram">
-      <img width="150" height="150" src="https://github.com/asrafulmolla/Age_Calculator/assets/128937137/6f755fc4-ca07-46cb-961d-d9c8afc804c1" alt="telegram-app--v1"/>
+      <img width="450" height="300" src="https://github.com/asrafulmolla/Age_Calculator/assets/128937137/6f755fc4-ca07-46cb-961d-d9c8afc804c1" alt="telegram-app--v1"/>
     </a>
   </div>
 
