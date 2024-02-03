@@ -5,7 +5,7 @@
 <h2 align="left">Sample User's Input:</h2>
 
   <div align="left">
-    <a href="https://t.me/mursalatul" title="Telegram">
+    <a>
       <img width="450" height="300" src="https://github.com/asrafulmolla/Age_Calculator/assets/128937137/6f755fc4-ca07-46cb-961d-d9c8afc804c1" alt="telegram-app--v1"/>
     </a>
   </div>
@@ -13,7 +13,7 @@
 <h2 align="left">Sample Output:</h2>
 
   <div align="left">
-    <a href="https://t.me/mursalatul" title="Telegram">
+    <a>
       <img width="450" height="300" src="https://github.com/asrafulmolla/Age_Calculator/assets/128937137/f44b5233-b524-43d4-8c14-5481caa518a9" alt="telegram-app--v1"/>
     </a>
   </div>
