@@ -17,7 +17,6 @@
       <img width="450" height="300" src="https://github.com/asrafulmolla/Age_Calculator/assets/128937137/f44b5233-b524-43d4-8c14-5481caa518a9" alt="telegram-app--v1"/>
     </a>
   </div>
-  
 <h2 align="left">Open terminal and run</h2>
 <h3>
 - Any C++ compiler : <a href="https://www.programiz.com/cpp-programming/online-compiler/">Run Calculator</a>
